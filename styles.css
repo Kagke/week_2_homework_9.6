@@ -1,0 +1,47 @@
+.style-header {
+    background-color: coral;
+    color:antiquewhite;
+    margin:-20px;
+
+}
+a {
+    color:antiquewhite;
+}
+
+body {
+    margin: 100px;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color:skyblue;
+    
+    
+}
+
+ img {
+    width:300px;
+    vertical-align: middle;
+    
+    
+    
+
+}
+h3  {
+    display: inline;
+    
+    color:white;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    background-color:coral;
+    
+        }
+
+p {
+    text-align:start;
+}
+
+.input-class{
+    float:center;
+
+}
